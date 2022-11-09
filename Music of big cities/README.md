@@ -1,3 +1,5 @@
+<img src=<a href="https://www.flaticon.com/free-icons/study" title="study icons"></a> align="right" />
+
 # Описание проекта - Музыка больших городов
 
 Сравнение Москвы и Петербурга окружено мифами:
