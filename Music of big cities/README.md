@@ -1,4 +1,4 @@
-<img src=<a href="https://www.flaticon.com/free-icons/study" title="study icons"></a> align="right" />
+<img src="research.png" width=200 align="right"/>
 
 # Описание проекта - Музыка больших городов
 
