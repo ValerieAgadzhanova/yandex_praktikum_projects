@@ -1,4 +1,4 @@
-<img src="project.png" width=200 align="right"/>
+<img src="project.png" width=150 align="right"/>
 
 ## Описание проектов
 
