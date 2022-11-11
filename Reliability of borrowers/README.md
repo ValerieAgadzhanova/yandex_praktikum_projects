@@ -1,4 +1,4 @@
-<img src="research.png" width=200 align="right"/>
+<img src="board.png" width=200 align="right"/>
 
 # Описание проекта - Исследование надежности заемщиков
 
