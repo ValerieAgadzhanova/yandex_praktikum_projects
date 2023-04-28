@@ -1,4 +1,4 @@
-<img src="smartphone.png" width=200 align="right"/>
+<img src="cafe.png" width=200 align="right"/>
 
 # Описание проекта - Исследования рынка общепита в Москве
 
