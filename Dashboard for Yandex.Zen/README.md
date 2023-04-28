@@ -23,7 +23,6 @@
 </div> 
 
 ## Задача
-
 - Составить техническое задание
 
 - [Дашборд в Tableau](https://public.tableau.com/app/profile/valerieagadzhanova/viz/DashboardProject_16707763798030/Dashboard1)
