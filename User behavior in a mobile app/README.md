@@ -1,4 +1,4 @@
-<img src="smartphone.png" width=200 align="right"/>
+<img src="order-food.png" width=200 align="right"/>
 
 # Описание проекта - Анализ пользовательского поведения в мобильном приложении
 
