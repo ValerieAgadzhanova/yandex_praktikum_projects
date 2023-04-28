@@ -5,6 +5,14 @@
 Финальный проект включает в себя работу над проектом, дашборд, задачи по A/B-тестированию и SQL.
 Цель — проверить бóльшую часть навыков, которые были приобретены во время курса.
 
+Задачи:
+- Декомпозиция задания
+- Исследовательский анализ данных
+- [Дашборд](https://public.tableau.com/app/profile/valerieagadzhanova/viz/FinalProject_16732932562570/Dashboard)
+- [Презентация](https://github.com/ValerieAgadzhanova/yandex_praktikum_projects/blob/115784ba73e0b4776cb7d9707217189deedb0c8d/Final%20project/%D0%9D%D0%B5%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%89%D0%B8.pdf)
+- А/В-тестирование
+- Проект по SQL
+
 ## Используемые технологии
 <div align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
